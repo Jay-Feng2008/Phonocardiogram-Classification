@@ -1,2 +1,6 @@
-# PCG Classification
-Method is described in [method.pdf](https://github.com/Jay-Feng2008/PCG-Classification/blob/master/method.pdf)
+# A Novel Approach for Robust Detection and Classification of Valvular Heart Disease Using ProbSparse Self-Attention and Virtual Adversarial Training on Phonocardiography Data
+## Abstract:
+Valvular heart disease (VHD) accounts for a significant portion of cardiovascular diseases worldwide. Early-stage diagnosis is crucial for effective treatment, yet traditional diagnostic methods rely on harmful or costly modalities. Moreover, the issues of data scarcity and low quality are often associated with existing VHD datasets. In response, we propose a novel VHD detection and classification method utilizing phonocardiography data. Our approach features a classification model based on ProbSparse self-attention and a training strategy that combines virtual adversarial training with Bayesian optimization to address data scarcity effectively. Evaluated on the corresponding public dataset, our method demonstrated robust performance in VHD classification, achieving state-of-the-art results compared to existing approaches. Additionally, we have conducted ablation studies to validate the influence of the adopted components, confirming the effectiveness of our method.    
+## Paper:
+
+Full text [here](https://github.com/Jay-Feng2008/Phonocardiogram-Classification/blob/main/Paper/A%20Novel%20Approach%20for%20Robust%20Detection%20and%20Classification%20of%20Valvular%20Heart%20Disease%20Using%20ProbSparse%20Self-Attention%20and%20Virtual%20Adversarial%20Training%20on%20Phonocardiography%20Data%20.pdf)
