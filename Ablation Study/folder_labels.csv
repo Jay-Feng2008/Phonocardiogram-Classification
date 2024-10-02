@@ -1,0 +1,12 @@
+imdex,content
+0,proposed
+1,canonical attention
+2,proposed_w/o_VAT
+3,"VAT w/o BO; alpha=1, eps=1"
+4,"VAT w/o BO; alpha=2, eps=2"
+5,"VAT w/o BO; alpha=3, eps=3"
+6,"VAT w/o BO; alpha=4, eps=4"
+7,"VAT w/o BO; alpha=5, eps=5"
+8,Canonical Attention w/ VAT
+9,Randomized Canonical Attnetion
+10,Selected to zero ProbSparse

@@ -1,0 +1,2 @@
+testing loss: 0.3162648379802704
+testing acc: 0.94666666

@@ -1,0 +1,10 @@
+fold1: 1.00
+fold2: 0.99
+fold3: 0.97
+fold4: 0.99
+fold5: 0.97
+fold6: 0.98
+fold7: 1.00
+fold8: 0.96
+fold9: 0.96
+fold10: 0.98
